@@ -1,3 +1,18 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
+}
+.services .card{
+    background-color: white;
+}
+.h2-services-html-grey{
+    color: rgb(180, 180, 180);
+}
+.services-img{
+    border-radius: 100%;
+    display: flex;
+    align-content: center;
+}
+.h2-services-html{
+    display: flex;
+    align-items: flex-start;
 }
